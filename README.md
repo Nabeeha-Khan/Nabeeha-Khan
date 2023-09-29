@@ -1,4 +1,8 @@
 ### Hi there 👋
+- I am from Pakistan.
+- I am 18 years old.
+- I am currently a Freshman in Bilkent University.
+- I am majoring in Bachelor of Computer Engineering.
 
 <!--
 **Nabeeha-Khan/Nabeeha-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
