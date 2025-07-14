@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I am from Pakistan.
-- I am 19 years old.
+- I am 20 years old.
 - I am currently a Sophomore in Bilkent University.
 - I am majoring in Bachelor of Computer Engineering.
 
